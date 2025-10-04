@@ -56,30 +56,24 @@ pom.xml # Maven configuration
 
 ## How to Run
 1. Clone this repository:
-```bash
 git clone https://github.com/your-username/cartlow-e2e-automation.git
-Navigate to the project folder:
-
-bash
-Copy code
+2. Navigate to the project folder:
 cd cartlow-e2e-automation
-Run the tests using Maven:
-
-bash
-Copy code
+3.Run the tests using Maven:
 mvn clean test
-Key Features
-Page Object Model (POM) implementation
 
-Dynamic element handling using WebDriverWait
+---
 
-Adding products with specific options and quantities
+## Key Features
+- Page Object Model (POM) implementation
+- Dynamic element handling using WebDriverWait
+- Adding products with specific options and quantities
+- Cart verification and management
+- End-to-End test scenario execution
 
-Cart verification and management
+---
 
-End-to-End test scenario execution
-
-Notes
-Ensure ChromeDriver is compatible with your installed Chrome browser version.
-Update login credentials in LoginPage before running tests.
-Waits are implemented to handle dynamic elements, pop-ups, and AJAX requests.
+## Notes
+- Ensure ChromeDriver is compatible with your installed Chrome browser version.
+- Update login credentials in LoginPage before running tests.
+- Waits are implemented to handle dynamic elements, pop-ups, and AJAX requests.
