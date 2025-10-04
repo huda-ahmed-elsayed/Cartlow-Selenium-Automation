@@ -69,12 +69,6 @@ pom.xml # Maven configuration
 
 ---
 
-## Badges
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" />
-<img src="https://img.shields.io/badge/TestNG-DB0D33?style=flat&logo=testng&logoColor=white" />
-
----
-
 ## Notes
 - Ensure ChromeDriver is compatible with your installed Chrome browser version.
 - Update login credentials in LoginPage before running tests.
