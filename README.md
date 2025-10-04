@@ -55,13 +55,9 @@ pom.xml # Maven configuration
 ---
 
 ## How to Run
-1. Clone this repository:
-git clone https://github.com/your-username/cartlow-e2e-automation.git
-2. Navigate to the project folder:
-cd cartlow-e2e-automation
-3.Run the tests using Maven:
-mvn clean test
-
+1. Clone this repository: git clone https://github.com/your-username/cartlow-e2e-automation.git
+2. Navigate to the project folder: cd cartlow-e2e-automation
+3. Run the tests using Maven: mvn clean test
 ---
 
 ## Key Features
