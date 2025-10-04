@@ -52,9 +52,6 @@ src/
 └── test/java/automationTest/ # Test classes
 pom.xml # Maven configuration
 
-yaml
-Copy code
-
 ---
 
 ## How to Run
